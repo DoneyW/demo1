@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Librarymanagementsystem\Librarymanagementsystem\Librarymanagementsystem\</FILEPATH>
+      <FILENAME>classes.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 book::booknumber。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>book::{ctor}</FUNCTION>
+    <DECORATED>??0book@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>book::booknumber</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Librarymanagementsystem\Librarymanagementsystem\Librarymanagementsystem\</FILEPATH>
+      <FILENAME>classes.h</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 borrowbookrecord::booknumber。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>borrowbookrecord::{ctor}</FUNCTION>
+    <DECORATED>??0borrowbookrecord@@QEAA@XZ</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>borrowbookrecord::booknumber</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
